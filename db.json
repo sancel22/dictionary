@@ -1,12 +1,15 @@
-
-    {
-     "_type": "DictionaryEntry",
-     "iknow_item_id": 1,
-     "language": "en",
-     "translation_language": "fr",
-     "text": "dog",
-     "transliteration": null,
-     "transcription": "/dɔɡ/",
-     "part_of_speech": "n",
-     "sound": "http://example.com/file.mp3"
-    }
+{
+    "words":[
+        {
+            "_type": "DictionaryEntry",
+            "iknow_item_id": 1,
+             "language": "en",
+             "translation_language": "fr",
+             "text": "dog",
+             "transliteration": null,
+            "transcription": "/dɔɡ/",
+             "part_of_speech": "n",
+             "sound": "http://example.com/file.mp3"
+        }
+    ]
+}
