@@ -1,5 +1,5 @@
 {
-    "words":[
+    "words": [
         {
              "_type": "DictionaryEntry",
              "iknow_item_id": 1,
@@ -10,7 +10,7 @@
              "transcription": "/dɔɡ/",
              "part_of_speech": "n",
              "sound": "http://example.com/file.mp3",
-             "sentences": [ {
+             "sentences": [{
                "text": "My dog likes his food",
                "transliteration": null,
                "translation": "Mon chien aime sa nourriture",
