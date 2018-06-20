@@ -1,15 +1,24 @@
 {
     "words":[
         {
-            "_type": "DictionaryEntry",
-            "iknow_item_id": 1,
+             "_type": "DictionaryEntry",
+             "iknow_item_id": 1,
              "language": "en",
              "translation_language": "fr",
              "text": "dog",
              "transliteration": null,
-            "transcription": "/dɔɡ/",
+             transcription: "/dɔɡ/",
              "part_of_speech": "n",
-             "sound": "http://example.com/file.mp3"
+             "sound": "http://example.com/file.mp3",
+             "sentences": [ {
+               "text": "My dog likes his food",
+               "transliteration": null,
+               "translation": "Mon chien aime sa nourriture",
+               "offset": [[4,3]],
+               "transliteration_offset": null,
+               "sound": "http://example.com/file2.mp3",
+               "image": "http://example.com/file3.jpg",
+             }]
         }
     ]
 }
