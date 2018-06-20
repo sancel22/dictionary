@@ -17,7 +17,7 @@
                "offset": [[4,3]],
                "transliteration_offset": null,
                "sound": "http://example.com/file2.mp3",
-               "image": "http://example.com/file3.jpg",
+               "image": "http://example.com/file3.jpg"
              }]
         }
     ]
